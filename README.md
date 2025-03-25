@@ -16,6 +16,7 @@ Hi, I'm Aditi Soni 👋
 
 🚀 Experienced in Twilio integration, error tracking with Datadog, and analytics using Mixpanel
 
+
 🛠 Tech Stack & Tools
 Frontend	State Management	CMS	Version Control
 React.js	Redux	Contentful	Git, GitHub
@@ -27,6 +28,7 @@ Other Tools: Datadog (Error Tracking), Mixpanel (Analytics), Twilio (Communicati
 📌 Featured Projects
 
 🔹 California Psychics - Customer Dashboard
+
 Tech Used: React.js, Redux, Next.js, Contentful, Datadog
 
 Developed an interactive dashboard for customers.
