@@ -18,6 +18,7 @@ Hi, I'm Aditi Soni 👋
 
 
 🛠 Tech Stack & Tools
+
 Frontend	State Management	CMS	Version Control
 React.js	Redux	Contentful	Git, GitHub
 Next.js	Redux-Saga	Contentful APIs	JIRA
