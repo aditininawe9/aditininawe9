@@ -42,9 +42,6 @@ Integrated Contentful CMS for dynamic content updates.
 
 Used Redux for efficient state management.
 
-🔹 California Psychics - Psychic Dashboard
-Tech Used: React.js, Redux-Saga, Twilio, Mixpanel
-
 Created a seamless user interface for psychic consultants.
 
 Integrated Twilio for SMS & voice communication.
