@@ -20,7 +20,7 @@ Hi, I'm Aditi Soni 👋
 Frontend	State Management	CMS	Version Control
 React.js	Redux	Contentful	Git, GitHub
 Next.js	Redux-Saga	Contentful APIs	JIRA
-React Hooks			Confluence
+React Hooks	Confluence
 Other Tools: Datadog (Error Tracking), Mixpanel (Analytics), Twilio (Communication)
 
 
@@ -30,19 +30,27 @@ Other Tools: Datadog (Error Tracking), Mixpanel (Analytics), Twilio (Communicati
 Tech Used: React.js, Redux, Next.js, Contentful, Datadog
 
 Developed an interactive dashboard for customers.
+
 Integrated Contentful CMS for dynamic content updates.
+
 Used Redux for efficient state management.
 
 🔹 California Psychics - Psychic Dashboard
 Tech Used: React.js, Redux-Saga, Twilio, Mixpanel
 
 Created a seamless user interface for psychic consultants.
+
 Integrated Twilio for SMS & voice communication.
+
 Used Mixpanel to analyze user behavior & improve performance.
 
 
 📫 Let's Connect!
+
 GitHub: aditininawe9
+
 LinkedIn: aditi-soni-59a2791b7
+
 Email: aditininawe9@gmail.com
+
 ✨ I’m always open to discussing new opportunities and collaborations! 🚀
