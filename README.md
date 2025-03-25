@@ -7,6 +7,7 @@ Hi, I'm Aditi Soni 👋
 
 🏆 3+ years of experience as a React.js Developer
 
+
 🎯 Expertise in React.js, Redux, Next.js, and Contentful CMS
 
 💡 Passionate about building scalable, performant, and user-friendly applications
@@ -21,6 +22,7 @@ React.js	Redux	Contentful	Git, GitHub
 Next.js	Redux-Saga	Contentful APIs	JIRA
 React Hooks			Confluence
 Other Tools: Datadog (Error Tracking), Mixpanel (Analytics), Twilio (Communication)
+
 
 📌 Featured Projects
 
@@ -37,6 +39,7 @@ Tech Used: React.js, Redux-Saga, Twilio, Mixpanel
 Created a seamless user interface for psychic consultants.
 Integrated Twilio for SMS & voice communication.
 Used Mixpanel to analyze user behavior & improve performance.
+
 
 📫 Let's Connect!
 GitHub: aditininawe9
