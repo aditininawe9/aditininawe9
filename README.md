@@ -6,10 +6,15 @@ Hi, I'm Aditi Soni 👋
 👩‍💻 About Me
 
 🏆 3+ years of experience as a React.js Developer
+
 🎯 Expertise in React.js, Redux, Next.js, and Contentful CMS
+
 💡 Passionate about building scalable, performant, and user-friendly applications
+
 🔍 Strong background in state management (Redux, Redux-Saga) and API-led connectivity
+
 🚀 Experienced in Twilio integration, error tracking with Datadog, and analytics using Mixpanel
+
 🛠 Tech Stack & Tools
 Frontend	State Management	CMS	Version Control
 React.js	Redux	Contentful	Git, GitHub
